@@ -1,5 +1,5 @@
 # Lane-marking-and-Object-detection
-Lane marking and object detection from a car Dash cameara view
+Lane marking and object detection from a car Dash camera view
 
 ## steps
 1. Load the image and scale it to 80% of the original size using bilinear
